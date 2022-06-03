@@ -18,8 +18,21 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Lab 1
+2. Lab 2
+3. Lab 3
+4. Lab 4
+5. Lab 5
+6. Lab 6
+7. Lab 7
+8. Lab 8
+9. Lab 9
+10. Project 1
+11. Project 2
+12. Project 3
+13. Project 4
+14. Project 5
+15. Project 6
 
 **Bold** and _Italic_ and `Code` text
 
