@@ -1,6 +1,6 @@
 ## Welcome to Adam Newman's GitHub Page
 
-<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/Newman75-byte/Newman75-byte.github.io/blob/main/profile.JPG" align="left" height="48" width="48" ></a>
 
 Here, you can access all my projects and labs I've conducted throughout my experience learning JavaScript. An outline of them is provided below.
 
