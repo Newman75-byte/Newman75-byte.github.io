@@ -1,6 +1,6 @@
 ## Welcome to Adam Newman's GitHub Page
 
-![Book logo](/Newman75-byte.github.io/logo.png)
+![Book logo](/main/logo.png)
 
 Here, you can access all my projects and labs I've conducted throughout my experience learning JavaScript. An outline of them is provided below.
 
