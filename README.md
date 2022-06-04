@@ -1,6 +1,6 @@
 ## Welcome to Adam Newman's GitHub Page
 
-<a href="url"><img src="https://github.com/Newman75-byte/Newman75-byte.github.io/blob/main/profile.JPG" align="left" height="78" width="58" ></a>
+<a href="url"><img src="https://github.com/Newman75-byte/Newman75-byte.github.io/blob/main/profile.JPG" align="left" height="68" width="48" ></a>
 
 
 
