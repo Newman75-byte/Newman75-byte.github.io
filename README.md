@@ -1,5 +1,7 @@
 ## Welcome to Adam Newman's GitHub Page
 
+![Book logo](logo.png)
+
 Here, you can access all my projects and labs I've conducted throughout my experience learning JavaScript. An outline of them is provided below.
 
 ## Labs
