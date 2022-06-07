@@ -1,0 +1,5 @@
+total 400
+-rw-r--r--@ 1 adamnewman  staff   16139 Apr  7 12:26 lab-01-folders.png
+-rw-r--r--  1 adamnewman  staff       0 Apr  7 13:24 lab-01-folders.txt
+-rw-r--r--@ 1 adamnewman  staff     204 Apr  7 13:13 lab-01-node.js
+-rw-r--r--@ 1 adamnewman  staff  184220 Apr  7 13:21 lab-01-node.png
